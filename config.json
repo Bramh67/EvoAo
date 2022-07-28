@@ -1,1 +1,1 @@
-{"executable":"EvolutionAoSetup.exe","update_min_required":0,"ignore_update_files":["INIT\\Configuracion.dat","INIT\\BindKeys.bin","DXDIALOG.OCX"]}
+{"executable":"EvolutionAoSetup.exe -EvoPrivSetup","update_min_required":0,"ignore_update_files":["INIT\\Configuracion.dat","INIT\\BindKeys.bin","DXDIALOG.OCX"]}
